@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Baked Salmon",
+    "ingredients": [
+      {
+        "name": "Salmon",
+        "amount": 1,
+        "measurement": "lb"
+      },
+      {
+        "name": "Pine Nuts",
+        "amount": 1,
+        "measurement": "cup"
+      },
+      {
+        "name": "Butter Lettuce",
+        "amount": 2,
+        "measurement": "cups"
+      },
+      {
+        "name": "Yellow Snow Peas",
+        "amount": 1,
+        "measurement": "bunch"
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 400 degrees Fahrenheit.",
+      "Spread the salmon on a pan and sprinkle with salt and pepper.",
+      "Bake for 15 minutes.",
+      "Place the lettuce, peas, and nuts on the baking sheet.",
+      "Bake for 5 more minutes."
+    ]
+  },
+  {
+    "name": "Baked Salmon2",
+    "ingredients": [
+      {
+        "name": "Salmon",
+        "amount": 1,
+        "measurement": "lb"
+      },
+      {
+        "name": "Pine Nuts",
+        "amount": 1,
+        "measurement": "cup"
+      },
+      {
+        "name": "Butter Lettuce",
+        "amount": 2,
+        "measurement": "cups"
+      },
+      {
+        "name": "Yellow Snow Peas",
+        "amount": 1,
+        "measurement": "bunch"
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 400 degrees Fahrenheit.",
+      "Spread the salmon on a pan and sprinkle with salt and pepper.",
+      "Bake for 15 minutes.",
+      "Place the lettuce, peas, and nuts on the baking sheet.",
+      "Bake for 5 more minutes."
+    ]
+  }
+]
